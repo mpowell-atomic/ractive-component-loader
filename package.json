@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "clean-css": "3.x",
-    "rcu": "0.x",
+    "rcu": "^0.9.0-edge",
     "tosource": "0.x"
   }
 }
