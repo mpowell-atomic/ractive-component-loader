@@ -1,5 +1,7 @@
 var rcu = require('rcu');
 var Ractive = require('ractive');
+Ractive.DEBUG = false;
+
 var CleanCSS = require('clean-css');
 var toSource = require('tosource');
 
